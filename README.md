@@ -2,7 +2,8 @@
 
 **Live Interactive Web Map:** https://owensylvia.github.io/buellton-sewer-gis-audit/ 
 
-Buellton_Sewer_Condition_Audit.png
+![Municipal Wastewater Infrastructure Condition Audit](Buellton_Sewer_Condition_Audit.png)
+
 
 #### Project Overview
 
