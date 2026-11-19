@@ -2,7 +2,7 @@
 
 **Live Interactive Web Map:** https://owensylvia.github.io/buellton-sewer-gis-audit/ 
 
- audit_map_preview.png
+Buellton_Sewer_Condition_Audit.png
 
 #### Project Overview
 
