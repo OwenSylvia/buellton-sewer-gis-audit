@@ -9,15 +9,15 @@
 
 An end-to-end municipal GIS field data collection, spatial analysis, and web-mapping project modeling **25 wastewater assets** (manholes and storm/sewer access points) in the River View Park neighborhood of **Buellton, California**. The workflow demonstrates a complete mobile-to-cloud-to-desktop GIS pipeline designed for municipal utilities and civil infrastructure asset management. 
 
-#### Data Transformation (Before & After)
+## Data Transformation (Before & After)
+Legacy municipal utility records often exist only as flat, non-spatial reference images. This workflow georeferenced public reference imagery into **NAD83 / California zone 5 (`EPSG:2229`)**, digitized snapped network geometry, and enriched each structure with field-verified geotagged photographs and conditional risk attributes.
 
-Legacy municipal utility records often exist only as flat, non-spatial reference images. This workflow georeferenced public reference imagery into **NAD83 / California zone 5 (EPSG:2229)**, digitized snapped network geometry, and enriched each structure with field-verified geotagged photographs and conditional risk attributes. 
 
-Before: Static Public Reference ImageAfter: Interactive Web GIS & Field Popups
-****
+| Before: Static Public Reference Image | After: Interactive Web GIS & Field Popups |
+| :---: | :---: |
+| <img src="raw_reference_before.png" width="400" alt="Raw Public Utility Reference"> | <img src="interactive_popup_after.png" width="400" alt="Interactive Leaflet Map with Geotagged Photo"> |
+| *Un-georeferenced public utility reference map without searchable attributes or field verification.* | *Interactive Leaflet web map featuring snapped sewer mains, 250-ft park proximity buffer, and geotagged field photos.* |
 
-***Un-georeferenced public utility reference map without searchable attributes or field verification.***
-*Interactive Leaflet web map featuring snapped sewer mains, 250-ft park proximity buffer, and geotagged field photos.*
 
 #### Modeled Audit Findings
 
